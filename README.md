@@ -130,7 +130,7 @@ The app will be available at:
 
 ## 🎥 Demo Video
 
-👉 [Demo Video](https://your-demo-link.com)
+👉 [Demo Video](https://www.loom.com/share/b1271e8e918a4e6ca8e66503b6421132)
 
 ---
 
