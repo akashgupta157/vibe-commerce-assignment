@@ -23,10 +23,10 @@ export default function CheckoutModal() {
     const res = await checkout({ ...form, cartItems: cart });
     setReceipt(res.data);
     setForm({ name: "", email: "" });
-    refreshCart();
     setTimeout(() => {
+      refreshCart();
       navigate("/");
-    }, 1000);
+    }, 3000);
   };
 
   return (
